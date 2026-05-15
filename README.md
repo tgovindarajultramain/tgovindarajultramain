@@ -35,7 +35,7 @@ Focused on creating AI-powered solutions, experimenting with new technologies, a
 - Learn and explore modern AI ecosystems
 
 ## 📫 Connect
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/tgovindarajultramain
 
 ---
 
