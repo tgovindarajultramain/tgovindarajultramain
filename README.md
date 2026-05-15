@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ultramain
+# Hi 👋 I'm Thirupathi G
 
 🚀 AI Developer | Building intelligent applications and modern digital experiences.
 
