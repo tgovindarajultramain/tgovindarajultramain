@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Ultramain
 
-<!--
-**tgovindarajultramain/tgovindarajultramain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Developer | Building intelligent applications and modern digital experiences.
 
-Here are some ideas to get you started:
+## About Me
+Passionate about Artificial Intelligence, automation, and software development.  
+Focused on creating AI-powered solutions, experimenting with new technologies, and continuously improving development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Interests
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Automation
+- Web Development
+- Backend Systems
+
+## 🛠 Tech Stack
+- Python
+- JavaScript
+- React.js
+- Node.js
+- FastAPI
+- MongoDB
+- Git & GitHub
+
+## 📚 Currently Learning
+- Advanced AI Workflows
+- LLM Applications
+- AI Agent Systems
+- Scalable Backend Architecture
+
+## 🎯 Goals
+- Build impactful AI products
+- Contribute to innovative technology
+- Learn and explore modern AI ecosystems
+
+## 📫 Connect
+- GitHub: https://github.com/yourusername
+
+---
+
+⭐ Exploring the future with AI and code.
